@@ -1,68 +1,68 @@
- .bungee-regular {
-           font-family: "Bungee", sans-serif;
-           font-weight: 400;
-           font-style: normal;
+.bungee-regular {
+   font-family: "Bungee", sans-serif;
+   font-weight: 400;
+   font-style: normal;
 }
 .honk-LETRA1 {
-           font-family: "Honk", system-ui;
-           font-optical-sizing: auto;
-           font-weight: 400;
-           font-style: normal;
-           font-variation-settings:
-             "MORF" 15,
-             "SHLN" 50;
+   font-family: "Honk", system-ui;
+   font-optical-sizing: auto;
+   font-weight: 400;
+   font-style: normal;
+   font-variation-settings:
+   "MORF" 15,
+   "SHLN" 50;
 }
 .nabla-LETRA2 {
-             font-family: "Nabla", system-ui;
-             font-optical-sizing: auto;
-             font-weight: 400;
-             font-style: normal;
-             font-variation-settings:
-              "EDPT" 100,
-              "EHLT" 12;
+   font-family: "Nabla", system-ui;
+   font-optical-sizing: auto;
+   font-weight: 400;
+   font-style: normal;
+   font-variation-settings:
+   "EDPT" 100,
+   "EHLT" 12;
 }
 body {
-            background-image: url("https://static.vecteezy.com/system/resources/previews/001/866/273/non_2x/light-purple-template-with-neon-stars-vector.jpg");
-            background-size:cover;
-            background-position: center;
-            background-repeat: no-repeat;
-            background-attachment: fixed;
+   background-image: url("https://static.vecteezy.com/system/resources/previews/001/866/273/non_2x/light-purple-template-with-neon-stars-vector.jpg");
+   background-size:cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
 }
 #caja {
-            background-image: url("https://media.revistagq.com/photos/645dde361c98f4b147443172/16:9/w_2560%2Cc_limit/100%2520mejores%2520videojuegos%2520gq.png");
-            background-position: center;
-            border: solid rgb(194, 245, 9) 30px;
-            padding: 170px;
-            margin: 100px,
+   background-image: url("https://media.revistagq.com/photos/645dde361c98f4b147443172/16:9/w_2560%2Cc_limit/100%2520mejores%2520videojuegos%2520gq.png");
+   background-position: center;
+   border: solid rgb(194, 245, 9) 30px;
+   padding: 170px;
+   margin: 100px,
 }
 h1 {
-            color:rgb(255, 255, 255);
-            font-family: "bungee";
-            text-align: center;
-            font-size:120px;
+   color:rgb(255, 255, 255);
+   font-family: "bungee";
+   text-align: center;
+   font-size:120px;
 }
 p {
-            color:rgb(0, 0, 0);
-            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-            text-align: justify;
-            text-decoration: solid;
-            font-size: 30px;
+   color:rgb(0, 0, 0);
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   text-align: justify;
+   text-decoration: solid;
+   font-size: 30px;
 }
 h2 {
-            color:rgb(255, 255, 255);
-            background-color: #e71919;
-            font-family:"nabla";
-            text-align: center;
-            font-size: 70px;
+   color:rgb(255, 255, 255);
+   background-color: #e71919;
+   font-family:"nabla";
+   text-align: center;
+   font-size: 70px;
 }
 h3 {
-            color:rgb(228, 88, 23);
-            font-family:"honk";
-            font-size: 100px;
-            text-transform: uppercase;
+   color:rgb(228, 88, 23);
+   font-family:"honk";
+   font-size: 100px;
+   text-transform: uppercase;
 }
 .imagen {
-            width: 500px;
-            height: 250px;
-            border-radius:25px;
+   width: 500px;
+   height: 250px;
+   border-radius:25px;
 }  
