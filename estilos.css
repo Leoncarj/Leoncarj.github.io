@@ -1,9 +1,9 @@
-.bungee-regular {
+bungee-regular {
    font-family: "Bungee", sans-serif;
    font-weight: 400;
    font-style: normal;
 }
-.honk-LETRA1 {
+honk-LETRA1 {
    font-family: "Honk", system-ui;
    font-optical-sizing: auto;
    font-weight: 400;
@@ -12,7 +12,7 @@
    "MORF" 15,
    "SHLN" 50;
 }
-.nabla-LETRA2 {
+nabla-LETRA2 {
    font-family: "Nabla", system-ui;
    font-optical-sizing: auto;
    font-weight: 400;
@@ -28,7 +28,7 @@ body {
    background-repeat: no-repeat;
    background-attachment: fixed;
 }
-#caja {
+caja {
    background-image: url("https://media.revistagq.com/photos/645dde361c98f4b147443172/16:9/w_2560%2Cc_limit/100%2520mejores%2520videojuegos%2520gq.png");
    background-position: center;
    border: solid rgb(194, 245, 9) 30px;
@@ -61,7 +61,7 @@ h3 {
    font-size: 100px;
    text-transform: uppercase;
 }
-.imagen {
+imagen {
    width: 500px;
    height: 250px;
    border-radius:25px;
