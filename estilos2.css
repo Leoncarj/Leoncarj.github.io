@@ -1,0 +1,52 @@
+/* ESTILO DEL ENCABEZADO*/
+header {
+   background-color: rgb(44, 42, 42);
+}
+header ul {
+   color: blue;
+   font-weight: 800;
+}
+header .logo{
+   color: rgb(255, 242, 0);
+   font-weight: 1000;
+   font-size: 40px;
+}
+/* letra de cuerpo*/
+.bungee-spice-regular {
+    font-family: "Bungee Spice", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .bungee-spice-regular {
+    font-family: "Bungee Spice", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+/* ESTILO DEL CUERPÓ*/
+body {
+   background-image: url("https://png.pngtree.com/background/20220901/original/pngtree-dark-and-neon-gamer-background-picture-image_1916859.jpg");
+   background-size:cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   text-align: center;
+}
+h1 {
+   background-color: #e71919;
+   font-family:"nabla";
+   text-align: center;
+   font-size: 70px;
+}
+h2 {
+    color:rgb(0, 0, 0);
+    font-family: "Bungee Spice";
+    text-align: center;
+    text-decoration: solid;
+    font-size: 30px;
+}
+svg {
+    color: #ffffff;
+}
+
+
