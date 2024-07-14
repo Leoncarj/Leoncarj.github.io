@@ -1,0 +1,52 @@
+.bungee-spice-regular {
+   font-family: "Bungee Spice", sans-serif;
+   font-weight: 400;
+   font-style: normal;
+ }
+/* ESTILO DEL ENCABEZADO*/
+header {
+   background-color: rgb(0, 0, 0);
+}
+header ul {
+   color: blue;
+   font-weight: 800;
+}
+header .logo{
+   color: rgb(255, 255, 5);
+   font-weight: 1000;
+   font-size: 40px;
+} 
+svg {
+   color: beige;
+}
+/*ESTILO DEL BODY*/
+body {
+   background-image: url("https://st.depositphotos.com/2086879/2147/i/450/depositphotos_21471143-stock-photo-metal-background.jpg");
+   background-size:cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   text-align: center;
+}
+h1 {
+   text-align: center;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   background-color: azure;
+   font-size: xx-large;
+}
+.contenedor{
+   display: flex;
+   justify-content: space-between;
+}
+.tx1 {
+   margin: 0 50px;
+   text-align: justify;
+}
+.titu {
+   color: blue ;
+   font-weight: bold;
+}
+.parrafo {
+   color:black;
+   font-weight: bold;
+}
